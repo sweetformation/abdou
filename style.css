@@ -221,36 +221,54 @@ h3 {
 	font-style:italic;
 	color:#666;
 	font-size:11px;
+	float: right;
+	width: 240px;
 }
 
-td.transport, td.hebergement, td.repas, td.guide, td.agadir, td.marrakech {
+.servicesimg {
+	width: 620px;
+	margin-bottom: 4px;
+	overflow: hidden;
+}
+
+
+
+div.transport, div.hebergement, div.repas, div.guide, div.agadir, div.marrakech {
 	width:70px;
 	height:70px;
 	background-image:url(img/icons-sprite.png);
 	background-repeat:no-repeat;
+	float: left;
 }
 
-td.transport {
+div.transport1, div.hebergement1, div.repas1, div.guide1, div.agadir1, div.marrakech1 {
+	
+	width:50%;
+	float: left;
+	margin-bottom: 0;
+}
+
+div.transport {
 	background-position:0 0;
 }
 
-td.hebergement {
+div.hebergement {
 	background-position:0 -78px;
 }
 
-td.repas {
+div.repas {
 	background-position:0 -162px;
 }
 
-td.guide {
+div.guide {
 	background-position:0 -248px;
 }
 
-td.agadir {
+div.agadir {
 	background-position:0 -330px;
 }
 
-td.marrakech {
+div.marrakech {
 	background-position:0 -410px;
 }
 
@@ -269,7 +287,17 @@ img.pics {
 	margin-bottom:12px;
 }
 
-li {
+.tik {
 background:url(img/tick.png) no-repeat left;
 padding-left:20px;
+margin: 0;
+}
+
+.circuits {	
+	width: 620px;
+	overflow: hidden;
+}
+
+.p {
+	width: 625px;
 }
