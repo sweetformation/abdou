@@ -1,6 +1,7 @@
 abdou
 =====
 
+
 Guide de parapente au Maroc
 
 À faire
@@ -16,4 +17,7 @@ Guide de parapente au Maroc
 * En JS, Ajouter 2 boutons permettant de modifier (plus petit ou plus grand) la taille du texte
 * En PHP, rendre la date du footer dynamique
 * Ajouter une page contact
+
+
+abdou utilisation git
 
