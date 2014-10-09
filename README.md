@@ -9,7 +9,6 @@ Guide de parapente au Maroc
 
 * Ajouter une meta keywords
 * Déplacer le code Google Analytics dans le bas du fichier
-* Enlever les gros blocs de commentaires
 * Virer le shitty file
 * Remplacer par un jQuery plus récent, le mettre en CDN et tester
 * Remplacer la balise "table" par quelque chose de plus approprié
