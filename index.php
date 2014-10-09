@@ -161,35 +161,6 @@
     <a rel="shadowbox" href="img/pic/abdou-parapente-maroc-1.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-1.jpg" class="pics"></a>
     <a rel="shadowbox" href="img/pic/abdou-parapente-maroc-46.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-46.jpg" class="pics"></a>
     
-    <!--
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-2.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-2.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-4.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-4.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-7.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-7.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-8.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-8.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-9.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-9.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-13.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-13.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-14.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-14.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-15.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-15.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-16.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-16.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-17.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-17.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-18.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-18.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-19.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-19.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-20.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-20.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-21.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-21.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-25.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-25.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-27.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-27.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-28.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-28.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-29.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-29.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-33.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-33.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-34.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-34.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-35.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-35.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-37.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-37.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-38.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-38.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-39.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-39.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-40.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-40.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-42.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-42.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-44.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-44.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-45.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-45.jpg" class="pics"></a>-->
         
     <div class="clear"></div><br />
     
@@ -220,17 +191,7 @@ $("a[rel=shadowbox]").fancybox({
 
 	
     
-<!--<link rel="stylesheet" type="text/css" href="shadowbox-3.0.3/shadowbox.css">
-<script type="text/javascript" src="shadowbox-3.0.3/shadowbox.js"></script>
-<script type="text/javascript">
-Shadowbox.init({
-    handleOversize: "drag",
-	continuous : true,
-	counterType : "skip",
-	counterLimit : 18,
-	overlayOpacity : 0.8
-});
-</script>-->
+
 
 		
 </body>
