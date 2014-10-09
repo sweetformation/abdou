@@ -304,3 +304,59 @@ padding-left:20px;
 #boutonmoins {
 	right: 33px;
 }
+
+#contacts {
+	margin: 50px 0;
+	overflow: hidden;
+}
+
+.formContact {
+	float: left;
+	font-size: 1.2em;
+	width: 50%;
+}
+
+.formContact label {
+	display: inline-block;
+	text-align: right;
+	width: 80px;
+}
+
+.formContact input[type="text"],
+.formContact textarea {
+	display: inline-block;
+	margin-bottom: 5px;
+	padding: 5px;
+	width: 300px;
+}
+
+.env {
+	display: inline-block;
+	font-weight: 700;
+	margin-left: 83px;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+.env:hover {
+	cursor: pointer;
+}
+
+#commentaires {
+	float: left;
+	width: 50%;
+}
+
+.errors {
+	color: #f00;
+	font-size: 1.2em;
+	font-weight: 700;
+	margin-left: 20px;
+}
+
+.validates {
+	color: #00f;
+	font-size: 1.2em;
+	font-weight: 700;
+	margin-left: 20px;
+}

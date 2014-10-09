@@ -57,7 +57,8 @@
                     
                      <p><b>Bon à savoir :</b> Mes tarifs sont en fonction du nombre de participants ainsi que des prestations souhaitées. Je suis flexible et à votre disposition pour organiser des séjours sur mesure.</p>
                      
-                     <p>Si vous avez des projets de vol au Maroc ou simplement des questions, n'hésitez pas à <a href="mailto:derbaniwaga@hotmail.com" target="_blank">me contacter</a>.</p>
+                     <!-- <p>Si vous avez des projets de vol au Maroc ou simplement des questions, n'hésitez pas à <a href="mailto:derbaniwaga@hotmail.com" target="_blank">me contacter</a>.</p> -->
+                     <p>Si vous avez des projets de vol au Maroc ou simplement des questions, n'hésitez pas à <a href="contact.php">me contacter</a>.</p>
                     
                     <!--<p><b>Bon à savoir :</b> plus vous êtes nombreux à vous inscrire, plus mes prix sont interressants!<br /><br />
                     Pour connaître mes tarifs, <a href="mailto:derbaniwaga@hotmail.com" target="_blank">contactez-moi</a>.</p>-->
