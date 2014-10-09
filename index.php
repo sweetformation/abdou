@@ -5,21 +5,12 @@
 <title>Guide de parapente au Maroc | Abderahim Derbani</title>
 <meta name="Description" content="Abderrahim Derbani, guide de parapente au Maroc, sur les circuits d'Agadir et de Marrakech." />
 
-		
+	
 	<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
 	<link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+    <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
     <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 	
-	<script type="text/javascript">
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-2427391-50']);
-	  _gaq.push(['_trackPageview']);
-	  (function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
-	</script>
 </head>
 
 <body>
@@ -171,24 +162,11 @@
     
 </div>
 
-
-<script type="text/javascript"  src="jquery-1.4.3.min.js"></script>
     
 <link rel="stylesheet" type="text/css" href="fancybox/jquery.fancybox-1.3.4.css" media="screen" />
 <script type="text/javascript" src="fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
 <script type="text/javascript" src="fancybox/jquery.fancybox-1.3.4.pack.js"></script>
-<script type="text/javascript">
-$("a[rel=shadowbox]").fancybox({
-				'cyclic' : 	true,
-				//'autoScale' : 	true,
-				'centerOnScroll ' :	true,
-				'overlayOpacity' : 	0.8,
-				'overlayColor' : '#000',
-				'titleShow' : 	false,
-				'transitionIn'	: 'fade',
-				'transitionOut'	: 'fade'
-			});
-</script>
+<script type="text/javascript" src="app.js"></script>
 
 	
     
