@@ -60,11 +60,11 @@ design = {
 	},
 
 	biggersize: function() {
-		$("#services > p").css({fontSize: "1.2em"})
+		$(".services > p").css({fontSize: "1.2em"})
 	},
 
 	smallersize: function() {
-		$("#services > p").css({fontSize: "0.8em"})
+		$(".services > p").css({fontSize: "0.8em"})
 	}
 
 
