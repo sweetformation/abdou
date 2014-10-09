@@ -8,6 +8,7 @@
 		
 	<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
 	<link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 	
 	<script type="text/javascript">
 	  var _gaq = _gaq || [];
