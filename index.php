@@ -4,6 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Guide de parapente au Maroc | Abderahim Derbani</title>
 <meta name="Description" content="Abderrahim Derbani, guide de parapente au Maroc, sur les circuits d'Agadir et de Marrakech." />
+<META NAME="Keywords" CONTENT="guide parapente Maroc, parapente, Maroc, découvrir le maroc, parapentiste, dépaysement, authenticité">
 
 	
 	<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
@@ -18,6 +19,8 @@
 	<div id="container">
     
     <div id="header">
+        <div id="boutonplus">+</div>
+        <div id="boutonmoins">-</div>
         <div id="bijour">
             <span class="font85">Bijour</span><span class="font29">. Je suis <strong>Abderrahim Derbani</strong></span><br/>
             <span class="font23"> &nbsp;et je suis <strong><span class="font35">guide</span></strong> pour <strong><span class="font35">parapentistes</span></strong> au <strong><span class="font35">Maroc</span></strong></span>
@@ -66,8 +69,8 @@
         
             <div id="services">
                 <h2>Services</h2>
-                Je me charge de l'intendance de votre séjour : transport, hôtels et gites, repas. Je vous servirai de guide et d'interprète
-                et je vous trouverai les meilleurs endroits pour que vous puissiez assouvir votre passion.<br />
+                <p>Je me charge de l'intendance de votre séjour : transport, hôtels et gites, repas. Je vous servirai de guide et d'interprète
+                et je vous trouverai les meilleurs endroits pour que vous puissiez assouvir votre passion.</p>
                 <span class="tagline">Vous ne faites que gonfler, voler, manger, rire, dormir. Le reste, je m'en occupe...</span><br /><br />
                 <table><tr>
                     <td class="transport"></td>
@@ -100,7 +103,7 @@
                 
                 <!--Je m'adapte à chaque groupe et mes circuits sont flexibles. Cependant, ces 2 circuits sont plus souvent pratiqués, car ils offrent une grande variété de sites intéressants.<br><br>-->
                 
-               2 circuits sont plus souvent pratiqués, car ils offrent une grande variété de sites intéressants. Cependant, je suis à votre disposition pour vous proposer d'autres destinations selon vos souhaits. Et, en cours de séjour, si la météo nous y oblige, nous pourrons bien sur modifier le parcours pour aller là où ça vole !<br /><br />
+               <p>2 circuits sont plus souvent pratiqués, car ils offrent une grande variété de sites intéressants. Cependant, je suis à votre disposition pour vous proposer d'autres destinations selon vos souhaits. Et, en cours de séjour, si la météo nous y oblige, nous pourrons bien sur modifier le parcours pour aller là où ça vole !<br /><br /></p>
                 <table><tr>
                     <td class="agadir"></td>
                     <td class="tddesc">
@@ -156,7 +159,7 @@
         
     <div class="clear"></div><br />
     
-    <div id="subfooter">&copy;Abderrahim Derbani 2012 | site par <a href="http://www.webolic.com" target="_blank">Webolic</a></div>
+    <div id="subfooter">&copy;Abderrahim Derbani <?= date('Y'); ?> | site par <a href="http://www.webolic.com" target="_blank">Webolic</a></div>
     
     </div>
     
